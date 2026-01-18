@@ -143,6 +143,7 @@ body {
   align-items: center;
   padding: 25px 0px;
   background-size: contain;
+  width: 100%;
 }
 
 .brands-logo{
@@ -319,6 +320,14 @@ footer{
 
 /* Medium devices (md) */
 @media (max-width: 768px) {
+.hero-image{
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+
+
   .cards-group{
   margin-top: 1rem;
   flex-direction: row;
