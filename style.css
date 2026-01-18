@@ -349,6 +349,7 @@ footer{
 .feature-product img{
   width: 100%;
   order: 2;
+  padding: 10px;
 }
 
 }
